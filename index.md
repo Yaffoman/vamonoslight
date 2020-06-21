@@ -25,9 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[Link](https://yaffoman.github.io/Vamonos_App/index.html)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[WEBSITE](https://yaffoman.github.io/Vamonos_App/index.html)
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yaffoman/vamonoslight/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
